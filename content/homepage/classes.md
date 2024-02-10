@@ -15,7 +15,7 @@ header_menu: true
 + Sensory play
 
 ### Junior Fun Mandarin
-#### (6-8 year old)
+#### (6-9 year old)
 
 + Art & craft
 + Games
