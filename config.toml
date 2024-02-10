@@ -35,10 +35,10 @@ title = "Fun Mandarin Kids Activity"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "Fun Mandarin Classes"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Fun Mandarin Classes"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -56,7 +56,7 @@ title = "Fun Mandarin Kids Activity"
     showContactIcons = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "mandarin, classes, learn, learning, fun, activity, games, chinese, sg, singapore, class"
 
     [params.contact]
         
