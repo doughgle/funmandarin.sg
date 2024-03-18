@@ -61,3 +61,7 @@ title = "Fun Mandarin Kids Activity"
     [params.contact]
         
         phone = "8111 0445"
+
+ [services]
+  [services.googleAnalytics]
+    ID = 'G-3WQGJRX3YW'
